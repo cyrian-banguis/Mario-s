@@ -1,0 +1,89 @@
+.Logo {
+   width: 30%;
+   height: 30%
+} 
+
+.akali {
+   position: absolute;
+   z-index: 1;
+   text-decoration: underline;
+   color: #f0efe6;
+   font-size: 30px;
+   position: absolute;
+   left: 35%;
+   top: 5%;
+}
+
+.zed {
+   position: absolute;
+   z-index: 1;
+   text-decoration: underline;
+   font-size: 30px;
+   color: #f0efe6;
+   position: absolute;
+   left: 45%;
+   top: 5%;
+}
+
+.katarina {
+   position: absolute;
+   z-index: 1;
+   text-decoration: underline;
+   color: #f0efe6;
+   font-size: 30px;
+   position: absolute;
+   left: 55%;
+   top: 5%;
+}
+
+.qiyana {
+   position: absolute;
+   z-index: 1;
+   text-decoration: underline;
+   color: #f0efe6;
+   font-size: 30px;
+   position: absolute;
+   left: 65%;
+   top: 5%;
+}
+
+.talon {
+	font-size: 30px;
+	text-decoration: underline;
+	font-size: 30px;
+	color: #3cffef ;
+	position: absolute;
+	left: 18%;
+	top: 20%
+}
+
+.ekko {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: -1;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

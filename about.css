@@ -1,0 +1,77 @@
+.aatrox {
+	text-decoration: underline;
+	font-size: 50px;
+	color: #2e6fff;
+	position: absolute;
+	left: 40%;
+	top: 8%;
+}
+
+.jax { 
+    color: #FD6301;
+    font-size: 22px;
+    border: 2px solid black;
+    width: 70%;
+	height: 20%;
+	position: absolute;
+	bottom: 50%;
+	left: 15%;
+}
+
+.nidalee {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: -1;
+}
+
+.evelynn {
+	color: #00ff00;
+	font-size: 25px;
+	position: absolute;
+	bottom: 2%;
+	left: 3%;
+}
+.rammus {
+	color: #00ff00;
+	font-size: 25px;
+	position: absolute;
+	bottom: 2%;
+	left: 21%;
+}
+.udyr {
+	color: #00ff00;
+	font-size: 25px;
+	position: absolute;
+	bottom: 2%;
+	left: 24%;
+}
+.aphelios {
+	font-size: 16px;
+	color: #ccff00;
+	position: absolute;
+	bottom: 4%;
+	left: 60%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

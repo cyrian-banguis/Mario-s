@@ -1,0 +1,93 @@
+.ahri {
+}
+
+.love {
+	width: 25%;
+	height: 35%;
+	position: absolute;
+	left: 10%;
+	top: 10%;
+	
+}
+
+.lover {
+	width: 25%;
+	height: 35%;
+	position: absolute;
+	right: 10%;
+	top: 10%;
+	
+}
+
+.neeko {
+	color: white;
+	border: 2px solid black;
+	width: 7%;
+	position: absolute;
+	left: 10%;
+	top: 45%;	
+}
+
+.sett {
+	color: white;
+	border: 2px solid black;
+	width: 7%;
+	position: absolute;
+	right: 27.8%;
+	top: 45%;	
+}
+
+.fire {
+	width: 25%;
+	height: 35%;
+	position: absolute;
+	right: 38%;
+	top: 55%;
+	
+}
+
+.nasus {
+	color: white;
+	border: 2px solid black;
+	width: 7%;
+	position: absolute;
+	left: 37%;
+	top: 90%;	
+}
+
+.water {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: -1;
+}
+
+.gusion {
+	text-decoration: underline;
+	color: #ffff00;
+	font-size: 30px;
+	position: absolute;
+	left: 42%;
+	top: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
